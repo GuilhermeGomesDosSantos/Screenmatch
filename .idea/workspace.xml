@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/calculos/CalculadoraDeTempo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Animal/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Animal/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Animal/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/ContaBancaria_1/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/ContaBancaria_1/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/ContaBancaria_1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +42,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.Pratica.Aluno.Main.executor": "Run",
+    "Application.Pratica.Animal.Main.executor": "Run",
     "Application.Pratica.Livro.Main.executor": "Run",
     "Application.Pratica.Produto.Main.executor": "Run",
     "Application.Principal.executor": "Run",
@@ -47,13 +53,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratica.idadePessoa.Main" />
+      <option name="MAIN_CLASS_NAME" value="Pratica.ContaBancaria_1.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratica.idadePessoa.*" />
+          <option name="PATTERN" value="Pratica.ContaBancaria_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pratica.Livro.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratica.Livro.Main" />
+    <configuration name="Pratica.Animal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratica.Animal.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratica.Livro.*" />
+          <option name="PATTERN" value="Pratica.Animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pratica.Produto.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratica.Produto.Main" />
+    <configuration name="Pratica.Livro.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratica.Livro.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratica.Produto.*" />
+          <option name="PATTERN" value="Pratica.Livro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Pratica.Animal.Main" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Pratica.Livro.Main" />
         <item itemvalue="Application.Pratica.Aluno.Main" />
-        <item itemvalue="Application.Pratica.Produto.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
