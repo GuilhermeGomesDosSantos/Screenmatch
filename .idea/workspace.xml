@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Aluno/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Aluno/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Livro/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Livro/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Produto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Produto/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/contaBancaria/ContaBancaria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/idadePessoa/IdadePessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/idadePessoa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +39,7 @@
   "keyToString": {
     "Application.Main.executor": "Run",
     "Application.Pratica.Aluno.Main.executor": "Run",
+    "Application.Pratica.Livro.Main.executor": "Run",
     "Application.Pratica.Produto.Main.executor": "Run",
     "Application.Principal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -53,7 +49,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pratica.Livro.Main">
+  <component name="RunManager" selected="Application.Principal">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratica.idadePessoa.Main" />
       <module name="Screenmatch" />
@@ -115,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Pratica.Livro.Main" />
         <item itemvalue="Application.Pratica.Aluno.Main" />
         <item itemvalue="Application.Pratica.Produto.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Principal" />
       </list>
     </recent_temporary>
   </component>
