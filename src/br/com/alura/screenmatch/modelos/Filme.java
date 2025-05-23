@@ -1,6 +1,8 @@
 package br.com.alura.screenmatch.modelos;
 
-public class Filme extends Titulo{ // o extends está dizendo que a Classe Filme irá extender(Herdar) todos os atributos e metodos da classe Titulo
+import br.com.alura.screenmatch.calculos.Classificavel;
+
+public class Filme extends Titulo implements Classificavel { // o extends está dizendo que a Classe Filme irá extender(Herdar) todos os atributos e metodos da classe Titulo
     // A classe especifica o conteúdo de um Objeto
     private String diretor;
 
@@ -9,5 +11,10 @@ public class Filme extends Titulo{ // o extends está dizendo que a Classe Filme
     }
     public void setDiretor(String diretor){
         this.diretor = diretor;
+    }
+
+    @Override
+    public int getClassificacao() {
+        return 0;
     }
 }
