@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Calculavel/Calculavel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Calculavel/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Calculavel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/Calculavel/ProdutoFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Vendavel/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Vendavel/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Vendavel/Servico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Vendavel/Vendavel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
     "Application.Pratica.Livro.Main.executor": "Run",
     "Application.Pratica.Produto.Main.executor": "Run",
     "Application.Pratica.Tabuada.Main.executor": "Run",
+    "Application.Pratica.Vendavel.Main.executor": "Run",
     "Application.Principal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -55,7 +56,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Pratica.Vendavel.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratica.Calculavel.Main" />
       <module name="Screenmatch" />
@@ -75,19 +76,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Pratica.CalculadoraSalaRetangular.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pratica.ConversorMoeda.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratica.ConversorMoeda.Main" />
-      <module name="Screenmatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pratica.ConversorMoeda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pratica.Vendavel.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratica.Vendavel.Main" />
+      <module name="Screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Pratica.Vendavel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pratica.Vendavel.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Pratica.ConversorTemperatura.Main" />
         <item itemvalue="Application.Pratica.CalculadoraSalaRetangular.Main" />
         <item itemvalue="Application.Pratica.Tabuada.Main" />
-        <item itemvalue="Application.Pratica.ConversorMoeda.Main" />
       </list>
     </recent_temporary>
   </component>
