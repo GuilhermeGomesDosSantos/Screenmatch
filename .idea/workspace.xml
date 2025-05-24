@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Pratica/ConversorMoeda/ConversaoFinanceira.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/ConversorMoeda/ConversorMoeda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pratica/ConversorMoeda/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Tabuada/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Tabuada/Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pratica/Tabuada/TabuadaMultiplicacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -51,7 +51,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Pratica.ConversorMoeda.Main">
+  <component name="RunManager" selected="Application.Pratica.Tabuada.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratica.ContaBancaria_1.Main" />
       <module name="Screenmatch" />
@@ -91,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pratica.Livro.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratica.Livro.Main" />
+    <configuration name="Pratica.Tabuada.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pratica.Tabuada.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratica.Livro.*" />
+          <option name="PATTERN" value="Pratica.Tabuada.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pratica.Tabuada.Main" />
         <item itemvalue="Application.Pratica.ConversorMoeda.Main" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Pratica.Animal.Main" />
-        <item itemvalue="Application.Pratica.Livro.Main" />
       </list>
     </recent_temporary>
   </component>
