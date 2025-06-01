@@ -8,9 +8,8 @@ import java.util.ArrayList;
 
 public class Principal {
     public static void main(String[] args) {
-        Filme meuFilme = new Filme("O poderoso chefão");
+        Filme meuFilme = new Filme("O poderoso chefão", 1970);
 
-        meuFilme.setAnoDeLancamento(1970);
         meuFilme.setDuracaoEmMinutos(180);
         System.out.println("Duração do filme: " + meuFilme.getDuracaoEmMinutos());
 
@@ -21,17 +20,14 @@ public class Principal {
         System.out.println("Total de avaliações" + meuFilme.getTotalDeAvaliacoes());
         System.out.println(meuFilme.pegaMedia());
 
-        Serie lost = new Serie();
-        lost.setNome("Lost");
-        lost.setAnoDeLancamento(2000);
+        Serie lost = new Serie("Lost", 2000);
         lost.setTemporadas(10);
         lost.setEpisodiosPorTemporadas(10);
         lost.exibeFichaTecnica();
         lost.setMinutosPorEpisodio(50);
         System.out.println("Duração para maratonar Lost: " + lost.getDuracaoEmMinutos());
 
-        Filme outroFilme = new Filme("Avatar");
-        outroFilme.setAnoDeLancamento(2023);
+        Filme outroFilme = new Filme("Avatar", 2023);
         outroFilme.setDuracaoEmMinutos(200);
 
         CalculadoraDeTempo calculadora = new CalculadoraDeTempo();
@@ -50,10 +46,9 @@ public class Principal {
         filtro.filtra(episodio);
 
         // Construtor: método que tem como função, a criação de um objeto em memória
-    var filmeDoPaulo = new Filme("Dogville"); //A variável var realiza uma inferência do tipo declarado
+        var filmeDoPaulo = new Filme("Dogville", 2003); //A variável var realiza uma inferência do tipo declarado
         //porque você não declarou o tipo explicitamente, mas o compilador consegue descobrir qual é
         filmeDoPaulo.setDuracaoEmMinutos(200);
-        filmeDoPaulo.setAnoDeLancamento(2003);
         filmeDoPaulo.avalia(10);
 
         ArrayList<Filme> listaDeFIlmes = new ArrayList<>();
