@@ -4,6 +4,8 @@ import br.com.alura.screenmatch.modelos.Episodio;
 import br.com.alura.screenmatch.modelos.Filme;
 import br.com.alura.screenmatch.modelos.Serie;
 
+import java.util.ArrayList;
+
 public class Principal {
     public static void main(String[] args) {
         Filme meuFilme = new Filme();
@@ -48,5 +50,19 @@ public class Principal {
         episodio.setSerie(lost);
         episodio.setTotalVisualizacoes(300);
         filtro.filtra(episodio);
+
+        var filmeDoPaulo = new Filme(); //A variável var realiza uma inferência do tipo declarado
+        //porque você não declarou o tipo explicitamente, mas o compilador consegue descobrir qual é
+        filmeDoPaulo.setDuracaoEmMinutos(200);
+        filmeDoPaulo.setNome("Dogville");
+        filmeDoPaulo.setAnoDeLancamento(2003);
+        filmeDoPaulo.avalia(10);
+
+        ArrayList<Filme> listaDeFIlmes = new ArrayList<>();
+        listaDeFIlmes.add(filmeDoPaulo);
+        listaDeFIlmes.add(meuFilme);
+        listaDeFIlmes.add(outroFilme);
+        System.out.println("Tamaho da lista " + listaDeFIlmes.size());
+        System.out.println("Primeiro filme " + listaDeFIlmes.get(0).getNome());
     }
 }
