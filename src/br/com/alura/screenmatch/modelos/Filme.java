@@ -6,6 +6,10 @@ public class Filme extends Titulo implements Classificavel { // o extends está 
     // A classe especifica o conteúdo de um Objeto
     private String diretor;
 
+    public Filme(String nome) {
+        this.setNome(nome);
+    }
+
     public String getDiretor(){
         return diretor;
     }

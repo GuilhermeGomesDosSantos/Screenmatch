@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Pessoa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Pessoa/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PraticaListas.Pessoa.Main">
+  <component name="RunManager" selected="Application.Principal (1)">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratica.Calculavel.Main" />
       <module name="Screenmatch" />
@@ -118,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PraticaListas.Pessoa.Main" />
         <item itemvalue="Application.Principal (1)" />
+        <item itemvalue="Application.PraticaListas.Pessoa.Main" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Pratica.Vendavel.Main" />
         <item itemvalue="Application.Main" />
