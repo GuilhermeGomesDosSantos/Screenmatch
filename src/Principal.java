@@ -64,5 +64,7 @@ public class Principal {
         listaDeFIlmes.add(outroFilme);
         System.out.println("Tamaho da lista " + listaDeFIlmes.size());
         System.out.println("Primeiro filme " + listaDeFIlmes.get(0).getNome());
+        System.out.println(listaDeFIlmes);
+        System.out.println("ToString do filme " + listaDeFIlmes.get(0).toString());
     }
 }
