@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Pessoa/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Pessoa/Pessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,7 @@
     "Application.Pratica.Produto.Main.executor": "Run",
     "Application.Pratica.Tabuada.Main.executor": "Run",
     "Application.Pratica.Vendavel.Main.executor": "Run",
+    "Application.PraticaListas.Pessoa.Main.executor": "Run",
     "Application.Principal (1).executor": "Run",
     "Application.Principal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -55,7 +56,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Principal (1)">
+  <component name="RunManager" selected="Application.PraticaListas.Pessoa.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Pratica.Calculavel.Main" />
       <module name="Screenmatch" />
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pratica.ConversorTemperatura.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratica.ConversorTemperatura.Main" />
+    <configuration name="PraticaListas.Pessoa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaListas.Pessoa.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratica.ConversorTemperatura.*" />
+          <option name="PATTERN" value="PraticaListas.Pessoa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaListas.Pessoa.Main" />
         <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Pratica.Vendavel.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Pratica.ConversorTemperatura.Main" />
       </list>
     </recent_temporary>
   </component>
