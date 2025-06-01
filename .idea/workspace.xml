@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Produto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Produto/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Produto/ProdutoPerecivel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Filme.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Serie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "Application.Pratica.Tabuada.Main.executor": "Run",
     "Application.Pratica.Vendavel.Main.executor": "Run",
     "Application.PraticaListas.Pessoa.Main.executor": "Run",
+    "Application.PraticaListas.Produto.Main.executor": "Run",
     "Application.Principal (1).executor": "Run",
     "Application.Principal.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -58,13 +58,13 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Principal (1)">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratica.Calculavel.Main" />
+  <component name="RunManager" selected="Application.PraticaListas.Produto.Main">
+    <configuration name="PraticaListas.Pessoa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaListas.Pessoa.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Pratica.Calculavel.*" />
+          <option name="PATTERN" value="PraticaListas.Pessoa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaListas.Pessoa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaListas.Pessoa.Main" />
+    <configuration name="PraticaListas.Produto.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaListas.Produto.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaListas.Pessoa.*" />
+          <option name="PATTERN" value="PraticaListas.Produto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaListas.Produto.Main" />
         <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.PraticaListas.Pessoa.Main" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.Pratica.Vendavel.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
