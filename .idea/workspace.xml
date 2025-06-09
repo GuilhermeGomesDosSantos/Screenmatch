@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Produto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Produto/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Produto/ProdutoPerecivel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Principal/PrincipalComListas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Principal/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +50,7 @@
     "Application.PraticaListas.Produto.Main.executor": "Run",
     "Application.Principal (1).executor": "Run",
     "Application.Principal.executor": "Run",
+    "Application.PrincipalComListas.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -58,7 +58,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PraticaListas.Produto.Main">
+  <component name="RunManager" selected="Application.PrincipalComListas">
     <configuration name="PraticaListas.Pessoa.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaListas.Pessoa.Main" />
       <module name="Screenmatch" />
@@ -78,19 +78,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="PraticaListas.Produto.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Pratica.Vendavel.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pratica.Vendavel.Main" />
-      <module name="Screenmatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Pratica.Vendavel.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,13 +105,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PrincipalComListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.Principal.PrincipalComListas" />
+      <module name="Screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.screenmatch.Principal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrincipalComListas" />
         <item itemvalue="Application.PraticaListas.Produto.Main" />
         <item itemvalue="Application.Principal (1)" />
         <item itemvalue="Application.PraticaListas.Pessoa.Main" />
         <item itemvalue="Application.Principal" />
-        <item itemvalue="Application.Pratica.Vendavel.Main" />
       </list>
     </recent_temporary>
   </component>

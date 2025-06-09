@@ -1,3 +1,4 @@
+package br.com.alura.screenmatch.Principal;
 import br.com.alura.screenmatch.calculos.CalculadoraDeTempo;
 import br.com.alura.screenmatch.calculos.FiltroRecomendacao;
 import br.com.alura.screenmatch.modelos.Episodio;
@@ -19,7 +20,7 @@ public class Principal {
         meuFilme.avalia(10);
         System.out.println("Total de avaliações" + meuFilme.getTotalDeAvaliacoes());
         System.out.println(meuFilme.pegaMedia());
-
+;
         Serie lost = new Serie("Lost", 2000);
         lost.setTemporadas(10);
         lost.setEpisodiosPorTemporadas(10);
