@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PraticaListas/ListaStrings/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Animal/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Animal/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +47,7 @@
     "Application.Pratica.Produto.Main.executor": "Run",
     "Application.Pratica.Tabuada.Main.executor": "Run",
     "Application.Pratica.Vendavel.Main.executor": "Run",
+    "Application.PraticaListas.Animal.Main.executor": "Run",
     "Application.PraticaListas.Pessoa.Main.executor": "Run",
     "Application.PraticaListas.Produto.Main.executor": "Run",
     "Application.Principal (1).executor": "Run",
@@ -58,13 +61,26 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.PraticaListas.Animal.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaListas.ListaStrings.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="PraticaListas.ListaStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraticaListas.Animal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaListas.Animal.Main" />
+      <module name="Screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PraticaListas.Animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,13 +97,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Principal (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Principal" />
-      <module name="Screenmatch" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -120,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaListas.Animal.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.PrincipalComListas" />
         <item itemvalue="Application.PraticaListas.Produto.Main" />
-        <item itemvalue="Application.Principal (1)" />
       </list>
     </recent_temporary>
   </component>
