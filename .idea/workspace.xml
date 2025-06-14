@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PraticaListas/ListaProduto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PraticaListas/ListaProduto/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Forma/Circulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Forma/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Forma/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaListas/Forma/Quadrado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +49,7 @@
     "Application.Pratica.Tabuada.Main.executor": "Run",
     "Application.Pratica.Vendavel.Main.executor": "Run",
     "Application.PraticaListas.Animal.Main.executor": "Run",
+    "Application.PraticaListas.Forma.Main.executor": "Run",
     "Application.PraticaListas.ListaProduto.Main.executor": "Run",
     "Application.PraticaListas.Pessoa.Main.executor": "Run",
     "Application.PraticaListas.Produto.Main.executor": "Run",
@@ -61,7 +64,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PraticaListas.ListaProduto.Main">
+  <component name="RunManager" selected="Application.PraticaListas.Forma.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaListas.ListaStrings.Main" />
       <module name="Screenmatch" />
@@ -88,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaListas.ListaProduto.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaListas.ListaProduto.Main" />
+    <configuration name="PraticaListas.Forma.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaListas.Forma.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaListas.ListaProduto.*" />
+          <option name="PATTERN" value="PraticaListas.Forma.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrincipalComListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.Principal.PrincipalComListas" />
+    <configuration name="PraticaListas.ListaProduto.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaListas.ListaProduto.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.screenmatch.Principal.*" />
+          <option name="PATTERN" value="PraticaListas.ListaProduto.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaListas.Forma.Main" />
         <item itemvalue="Application.PraticaListas.ListaProduto.Main" />
         <item itemvalue="Application.PraticaListas.Animal.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.main" />
-        <item itemvalue="Application.PrincipalComListas" />
       </list>
     </recent_temporary>
   </component>
