@@ -1,4 +1,4 @@
-package Pratica.ListaNumeros;
+package PraticaListas.ListaNumeros;
 
 /*
 Crie uma lista de números inteiros e utilize o método Collections.sort para ordená-la em ordem crescente.
