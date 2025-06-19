@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PraticaAPI/API_CoinGecko/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaAPI/Receita_TheMealDB/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,20 +66,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PraticaAPI.API_CoinGecko.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaListas.ListaNumeros.Main" />
-      <module name="Screenmatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PraticaListas.ListaNumeros.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PraticaAPI.Receita_TheMealDB.Main">
     <configuration name="PraticaAPI.API_CoinGecko.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaAPI.API_CoinGecko.Main" />
       <module name="Screenmatch" />
@@ -99,6 +86,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="PraticaAPI.API_Google_Books.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraticaAPI.Receita_TheMealDB.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaAPI.Receita_TheMealDB.Main" />
+      <module name="Screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PraticaAPI.Receita_TheMealDB.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaAPI.Receita_TheMealDB.Main" />
         <item itemvalue="Application.PraticaAPI.API_CoinGecko.Main" />
         <item itemvalue="Application.PraticaAPI.API_Google_Books.Main" />
         <item itemvalue="Application.PrincipalComBusca" />
         <item itemvalue="Application.PraticaListas.Titulo.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
