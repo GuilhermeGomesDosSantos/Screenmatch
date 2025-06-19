@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/PraticaAPI/API_Google_Books/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Principal/PrincipalComBusca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,7 @@
     "Application.Pratica.Produto.Main.executor": "Run",
     "Application.Pratica.Tabuada.Main.executor": "Run",
     "Application.Pratica.Vendavel.Main.executor": "Run",
+    "Application.PraticaAPI.API_Google_Books.Main.executor": "Run",
     "Application.PraticaListas.Animal.Main.executor": "Run",
     "Application.PraticaListas.ContaBancaria.Main.executor": "Run",
     "Application.PraticaListas.Forma.Main.executor": "Run",
@@ -64,7 +65,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PrincipalComBusca">
+  <component name="RunManager" selected="Application.PraticaAPI.API_Google_Books.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaListas.ListaNumeros.Main" />
       <module name="Screenmatch" />
@@ -78,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaListas.ContaBancaria.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaListas.ContaBancaria.Main" />
+    <configuration name="PraticaAPI.API_Google_Books.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaAPI.API_Google_Books.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaListas.ContaBancaria.*" />
+          <option name="PATTERN" value="PraticaAPI.API_Google_Books.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaAPI.API_Google_Books.Main" />
         <item itemvalue="Application.PrincipalComBusca" />
         <item itemvalue="Application.PraticaListas.Titulo.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PrincipalComListas" />
-        <item itemvalue="Application.PraticaListas.ContaBancaria.Main" />
       </list>
     </recent_temporary>
   </component>
