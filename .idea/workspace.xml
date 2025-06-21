@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PraticaAPI/Pessoa/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PraticaAPI/Pessoa/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaAPI/Livro/Editora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaAPI/Livro/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaAPI/Livro/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,45 +36,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pratica.Aluno.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pratica.Animal.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pratica.CalculadoraSalaRetangular.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pratica.ConversorMoeda.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pratica.ConversorTemperatura.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pratica.Livro.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pratica.Produto.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pratica.Tabuada.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pratica.Vendavel.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaAPI.API_CoinGecko.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaAPI.API_Google_Books.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaAPI.Receita_TheMealDB.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaListas.Animal.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaListas.ContaBancaria.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaListas.Forma.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaListas.ListaProduto.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaListas.Pessoa.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaListas.Produto.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PraticaListas.Titulo.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrincipalComBusca.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrincipalComListas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gomes/Downloads/gson-2.13.1.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Pratica.Aluno.Main.executor": "Run",
+    "Application.Pratica.Animal.Main.executor": "Run",
+    "Application.Pratica.CalculadoraSalaRetangular.Main.executor": "Run",
+    "Application.Pratica.ConversorMoeda.Main.executor": "Run",
+    "Application.Pratica.ConversorTemperatura.Main.executor": "Run",
+    "Application.Pratica.Livro.Main.executor": "Run",
+    "Application.Pratica.Produto.Main.executor": "Run",
+    "Application.Pratica.Tabuada.Main.executor": "Run",
+    "Application.Pratica.Vendavel.Main.executor": "Run",
+    "Application.PraticaAPI.API_CoinGecko.Main.executor": "Run",
+    "Application.PraticaAPI.API_Google_Books.Main.executor": "Run",
+    "Application.PraticaAPI.Livro.Main.executor": "Run",
+    "Application.PraticaAPI.Receita_TheMealDB.Main.executor": "Run",
+    "Application.PraticaListas.Animal.Main.executor": "Run",
+    "Application.PraticaListas.ContaBancaria.Main.executor": "Run",
+    "Application.PraticaListas.Forma.Main.executor": "Run",
+    "Application.PraticaListas.ListaProduto.Main.executor": "Run",
+    "Application.PraticaListas.Pessoa.Main.executor": "Run",
+    "Application.PraticaListas.Produto.Main.executor": "Run",
+    "Application.PraticaListas.Titulo.Main.executor": "Run",
+    "Application.Principal (1).executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.PrincipalComBusca.executor": "Run",
+    "Application.PrincipalComListas.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gomes/Downloads/gson-2.13.1.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.Main">
+}]]></component>
+  <component name="RunManager" selected="Application.PraticaAPI.Livro.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaAPI.Pessoa.Main" />
       <module name="Screenmatch" />
@@ -100,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaAPI.API_Google_Books.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaAPI.API_Google_Books.Main" />
+    <configuration name="PraticaAPI.Livro.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaAPI.Livro.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaAPI.API_Google_Books.*" />
+          <option name="PATTERN" value="PraticaAPI.Livro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaAPI.Livro.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.PrincipalComBusca" />
         <item itemvalue="Application.PraticaAPI.Receita_TheMealDB.Main" />
         <item itemvalue="Application.PraticaAPI.API_CoinGecko.Main" />
-        <item itemvalue="Application.PraticaAPI.API_Google_Books.Main" />
       </list>
     </recent_temporary>
   </component>
