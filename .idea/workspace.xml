@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/ExcecaoSenha/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/ExcecaoSenha/Senha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/ExcecaoSenha/SenhaInvalidaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/GitHub/BuscarUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/GitHub/ErroConsultaGitHubException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/GitHub/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/GitHub/RecordUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Record" />
         <option value="Class" />
+        <option value="Record" />
       </list>
     </option>
   </component>
@@ -38,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BuscarUser.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Pratica.Aluno.Main.executor": "Run",
     "Application.Pratica.Animal.Main.executor": "Run",
@@ -79,16 +81,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="PraticaExcecoes.GitHub" />
       <recent name="br.com.alura.screenmatch.excecao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PraticaExcecoes.ExcecaoSenha.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaAPI.Pessoa.Main" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BuscarUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.GitHub.BuscarUser" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaAPI.Pessoa.*" />
+          <option name="PATTERN" value="PraticaExcecoes.GitHub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaAPI.Livro.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaAPI.Livro.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.GitHub.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaAPI.Livro.*" />
+          <option name="PATTERN" value="PraticaExcecoes.GitHub.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BuscarUser" />
         <item itemvalue="Application.PraticaExcecoes.ExcecaoSenha.Main" />
         <item itemvalue="Application.PraticaExcecoes.DivisorZero.Main" />
         <item itemvalue="Application.PrincipalComBusca" />
-        <item itemvalue="Application.PraticaAPI.Livro.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
