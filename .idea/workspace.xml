@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/filmes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaArquivo/GravarMensagem/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/Principal/PrincipalComBusca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Record" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -53,6 +51,7 @@
     "Application.PraticaAPI.API_Google_Books.Main.executor": "Run",
     "Application.PraticaAPI.Livro.Main.executor": "Run",
     "Application.PraticaAPI.Receita_TheMealDB.Main.executor": "Run",
+    "Application.PraticaArquivo.GravarMensagem.Main.executor": "Run",
     "Application.PraticaExcecoes.DivisorZero.Main.executor": "Run",
     "Application.PraticaExcecoes.ExcecaoSenha.Main.executor": "Run",
     "Application.PraticaListas.Animal.Main.executor": "Run",
@@ -84,7 +83,7 @@
       <recent name="br.com.alura.screenmatch.excecao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PrincipalComBusca">
+  <component name="RunManager" selected="Application.PraticaArquivo.GravarMensagem.Main">
     <configuration name="BuscarUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.GitHub.BuscarUser" />
       <module name="Screenmatch" />
@@ -111,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaExcecoes.DivisorZero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.DivisorZero.Main" />
+    <configuration name="PraticaArquivo.GravarMensagem.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaArquivo.GravarMensagem.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaExcecoes.DivisorZero.*" />
+          <option name="PATTERN" value="PraticaArquivo.GravarMensagem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaArquivo.GravarMensagem.Main" />
         <item itemvalue="Application.PrincipalComBusca" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BuscarUser" />
         <item itemvalue="Application.PraticaExcecoes.ExcecaoSenha.Main" />
-        <item itemvalue="Application.PraticaExcecoes.DivisorZero.Main" />
       </list>
     </recent_temporary>
   </component>
