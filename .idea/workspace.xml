@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PraticaArquivo/GravarMensagem/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaArquivo/GravarMensagem/Titulo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaArquivo/GravarMensagem/Titulo/Titulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +53,7 @@
     "Application.PraticaAPI.Livro.Main.executor": "Run",
     "Application.PraticaAPI.Receita_TheMealDB.Main.executor": "Run",
     "Application.PraticaArquivo.GravarMensagem.Main.executor": "Run",
+    "Application.PraticaArquivo.GravarMensagem.Titulo.Main.executor": "Run",
     "Application.PraticaExcecoes.DivisorZero.Main.executor": "Run",
     "Application.PraticaExcecoes.ExcecaoSenha.Main.executor": "Run",
     "Application.PraticaListas.Animal.Main.executor": "Run",
@@ -83,7 +85,7 @@
       <recent name="br.com.alura.screenmatch.excecao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PraticaArquivo.GravarMensagem.Main">
+  <component name="RunManager" selected="Application.PraticaArquivo.GravarMensagem.Titulo.Main">
     <configuration name="BuscarUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.GitHub.BuscarUser" />
       <module name="Screenmatch" />
@@ -123,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaExcecoes.ExcecaoSenha.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.ExcecaoSenha.Main" />
+    <configuration name="PraticaArquivo.GravarMensagem.Titulo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaArquivo.GravarMensagem.Titulo.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaExcecoes.ExcecaoSenha.*" />
+          <option name="PATTERN" value="PraticaArquivo.GravarMensagem.Titulo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaArquivo.GravarMensagem.Titulo.Main" />
         <item itemvalue="Application.PraticaArquivo.GravarMensagem.Main" />
         <item itemvalue="Application.PrincipalComBusca" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.BuscarUser" />
-        <item itemvalue="Application.PraticaExcecoes.ExcecaoSenha.Main" />
       </list>
     </recent_temporary>
   </component>
