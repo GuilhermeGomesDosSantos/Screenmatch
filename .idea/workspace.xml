@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/DivisorZero/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/ExcecaoSenha/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/ExcecaoSenha/Senha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaExcecoes/ExcecaoSenha/SenhaInvalidaException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +53,7 @@
     "Application.PraticaAPI.Livro.Main.executor": "Run",
     "Application.PraticaAPI.Receita_TheMealDB.Main.executor": "Run",
     "Application.PraticaExcecoes.DivisorZero.Main.executor": "Run",
+    "Application.PraticaExcecoes.ExcecaoSenha.Main.executor": "Run",
     "Application.PraticaListas.Animal.Main.executor": "Run",
     "Application.PraticaListas.ContaBancaria.Main.executor": "Run",
     "Application.PraticaListas.Forma.Main.executor": "Run",
@@ -79,7 +82,7 @@
       <recent name="br.com.alura.screenmatch.excecao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PraticaExcecoes.DivisorZero.Main">
+  <component name="RunManager" selected="Application.PraticaExcecoes.ExcecaoSenha.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaAPI.Pessoa.Main" />
       <module name="Screenmatch" />
@@ -106,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaAPI.Receita_TheMealDB.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaAPI.Receita_TheMealDB.Main" />
+    <configuration name="PraticaExcecoes.DivisorZero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.DivisorZero.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaAPI.Receita_TheMealDB.*" />
+          <option name="PATTERN" value="PraticaExcecoes.DivisorZero.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaExcecoes.DivisorZero.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.DivisorZero.Main" />
+    <configuration name="PraticaExcecoes.ExcecaoSenha.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.ExcecaoSenha.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaExcecoes.DivisorZero.*" />
+          <option name="PATTERN" value="PraticaExcecoes.ExcecaoSenha.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PraticaExcecoes.ExcecaoSenha.Main" />
         <item itemvalue="Application.PraticaExcecoes.DivisorZero.Main" />
         <item itemvalue="Application.PrincipalComBusca" />
         <item itemvalue="Application.PraticaAPI.Livro.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.PraticaAPI.Receita_TheMealDB.Main" />
       </list>
     </recent_temporary>
   </component>
