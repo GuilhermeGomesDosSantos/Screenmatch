@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44c5968d-029e-4378-9e31-5f2f7c0b6e47" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/PraticaArquivo/GravarMensagem/Titulo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PraticaArquivo/GravarMensagem/Titulo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaArquivo/Veiculo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PraticaArquivo/Veiculo/Veiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PraticaArquivo/GravarMensagem/Titulo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PraticaArquivo/Titulo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PraticaArquivo/GravarMensagem/Titulo/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PraticaArquivo/Titulo/Titulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,20 +87,7 @@
       <recent name="br.com.alura.screenmatch.excecao" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PraticaArquivo.GravarMensagem.Titulo.Main">
-    <configuration name="BuscarUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.GitHub.BuscarUser" />
-      <module name="Screenmatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PraticaExcecoes.GitHub.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PraticaArquivo.Veiculo.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PraticaExcecoes.GitHub.Main" />
       <module name="Screenmatch" />
@@ -123,12 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PraticaArquivo.GravarMensagem.Titulo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PraticaArquivo.GravarMensagem.Titulo.Main" />
+    <configuration name="PraticaArquivo.Titulo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaArquivo.Titulo.Main" />
       <module name="Screenmatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="PraticaArquivo.GravarMensagem.Titulo.*" />
+          <option name="PATTERN" value="PraticaArquivo.Titulo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PraticaArquivo.Veiculo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraticaArquivo.Veiculo.Main" />
+      <module name="Screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PraticaArquivo.Veiculo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PraticaArquivo.GravarMensagem.Titulo.Main" />
+        <item itemvalue="Application.PraticaArquivo.Veiculo.Main" />
+        <item itemvalue="Application.PraticaArquivo.Titulo.Main" />
         <item itemvalue="Application.PraticaArquivo.GravarMensagem.Main" />
         <item itemvalue="Application.PrincipalComBusca" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BuscarUser" />
       </list>
     </recent_temporary>
   </component>

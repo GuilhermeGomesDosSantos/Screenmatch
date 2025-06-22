@@ -1,4 +1,4 @@
-package PraticaArquivo.GravarMensagem.Titulo;
+package PraticaArquivo.Titulo;
 /*
 Defina uma classe chamada Titulo com os atributos necessários.
 Em seguida, crie um programa que instancia um objeto Titulo,
@@ -11,8 +11,6 @@ Utilize o método setPrettyPrinting para alcançar esse resultado.
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 
 public class Main {
